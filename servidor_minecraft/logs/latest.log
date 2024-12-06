@@ -168,3 +168,8 @@
 [06Dec2024 15:16:18.854] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [06Dec2024 15:18:14.750] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: youcriper[/172.24.1.167:52294] logged in with entity id 255 at (7.5, 64.0, -0.5)
 [06Dec2024 15:18:14.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: youcriper joined the game
+[06Dec2024 15:26:12.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made youcriper a server operator
+[06Dec2024 15:26:25.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [youcriper: Set own game mode to Creative Mode]
+[06Dec2024 15:27:15.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [youcriper: Set the time to 1000]
+[06Dec2024 15:34:01.511] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: youcriper lost connection: Timed out
+[06Dec2024 15:34:01.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: youcriper left the game

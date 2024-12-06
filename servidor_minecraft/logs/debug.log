@@ -737,3 +737,12 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [06Dec2024 15:18:14.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: youcriper joined the game
 [06Dec2024 15:21:18.872] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Dec2024 15:21:18.963] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 15:26:12.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made youcriper a server operator
+[06Dec2024 15:26:18.901] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 15:26:18.910] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 15:26:25.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [youcriper: Set own game mode to Creative Mode]
+[06Dec2024 15:27:15.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [youcriper: Set the time to 1000]
+[06Dec2024 15:31:18.827] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 15:31:18.836] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 15:34:01.511] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: youcriper lost connection: Timed out
+[06Dec2024 15:34:01.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: youcriper left the game
