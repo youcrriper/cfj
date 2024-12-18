@@ -985,3 +985,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Dec2024 22:42:06.716] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to Enzosunder (1c8ea871-9dbc-388b-afd4-075bad094fbf)
 [18Dec2024 22:42:07.475] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1c8ea871-9dbc-388b-afd4-075bad094fbf
 [18Dec2024 22:42:07.475] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Enzosunder (1c8ea871-9dbc-388b-afd4-075bad094fbf) successfully connected to voice chat
+[18Dec2024 22:47:08.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enzosunder has made the advancement [Sweet Dreams]
+[18Dec2024 22:49:00.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enzosunder has made the advancement [Monster Hunter]
+[18Dec2024 22:49:47.901] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: youcriper lost connection: Disconnected
+[18Dec2024 22:49:47.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: youcriper left the game
+[18Dec2024 22:49:47.902] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9f14b36d-5b4d-33af-bc66-3bfc295459d2 was unloaded
+[18Dec2024 22:49:47.902] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client youcriper
+[18Dec2024 22:50:56.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cafeconpan08 was slain by Skeleton
+[18Dec2024 22:51:00.707] [Server thread/INFO] [do_a_barrel_roll/]: Client of cafeconpan08 accepted server config.
+[18Dec2024 22:54:36.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADES5 has made the advancement [Who You Gonna Call?]

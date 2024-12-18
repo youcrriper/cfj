@@ -1070,6 +1070,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2024-12-18 22:48:07 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-18 21:45:37 +0000"
@@ -1079,6 +1085,12 @@
   "create:recipes/building_blocks/small_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-18 21:45:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-18 22:48:07 +0000"
     },
     "done": true
   },
@@ -1133,6 +1145,12 @@
   "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
     "criteria": {
       "has_wool": "2024-12-18 21:51:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-18 22:48:07 +0000"
     },
     "done": true
   },
@@ -1220,6 +1238,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-18 22:48:07 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/andesite_alloy": {
     "criteria": {
       "has_item": "2024-12-18 21:48:11 +0000"
@@ -1235,6 +1259,12 @@
   "securitycraft:recipes/misc/whitelist_module": {
     "criteria": {
       "has_iron": "2024-12-18 21:48:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-18 22:48:07 +0000"
     },
     "done": true
   },
@@ -1265,6 +1295,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-18 22:05:07 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/diorite_bridge_pier": {
+    "criteria": {
+      "has_planks": "2024-12-18 22:48:07 +0000"
     },
     "done": true
   },
@@ -1382,6 +1418,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-18 22:48:07 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/keycard_lv5": {
     "criteria": {
       "has_iron": "2024-12-18 21:48:11 +0000"
@@ -1472,6 +1514,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2024-12-18 22:48:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2024-12-18 21:57:48 +0000"
@@ -1487,6 +1535,18 @@
   "iceandfire:recipes/food/gold_pile": {
     "criteria": {
       "has_item": "2024-12-18 22:29:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-18 22:48:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-18 22:48:07 +0000"
     },
     "done": true
   },
@@ -1574,6 +1634,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-18 22:48:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2024-12-18 21:52:33 +0000"
@@ -1628,6 +1694,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-18 22:48:07 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/asian_red_bridge_pier": {
     "criteria": {
       "has_planks": "2024-12-18 21:57:48 +0000"
@@ -1637,6 +1709,12 @@
   "grimoireofgaia:main/dullahan": {
     "criteria": {
       "kill": "2024-12-18 21:52:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-18 22:48:07 +0000"
     },
     "done": true
   },
@@ -1688,6 +1766,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-18 22:48:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2024-12-18 21:48:11 +0000"
@@ -1706,6 +1790,24 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_diorite_bricks_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-18 22:48:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-18 22:48:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-18 22:48:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2024-12-18 21:48:31 +0000"
@@ -1721,6 +1823,12 @@
   "securitycraft:recipes/misc/blacklist_module": {
     "criteria": {
       "has_iron": "2024-12-18 21:48:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-18 22:48:07 +0000"
     },
     "done": true
   },
@@ -1790,6 +1898,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2024-12-18 22:48:07 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/blindfold": {
     "criteria": {
       "has_item": "2024-12-18 21:52:33 +0000"
@@ -1811,6 +1925,12 @@
   "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
     "criteria": {
       "has_raw_silver": "2024-12-18 21:45:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_bricks_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-18 22:48:07 +0000"
     },
     "done": true
   },
@@ -1922,6 +2042,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/diorite_bridge_stair": {
+    "criteria": {
+      "has_planks": "2024-12-18 22:48:07 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-18 21:45:37 +0000"
@@ -1958,6 +2084,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/diorite_pillar_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-18 22:48:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-18 22:05:07 +0000"
@@ -1967,6 +2099,12 @@
   "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-18 22:05:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2024-12-18 22:48:07 +0000"
     },
     "done": true
   },
@@ -2060,6 +2198,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_diorite_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-18 22:48:07 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/zinc_block_from_compacting": {
     "criteria": {
       "has_item": "2024-12-18 22:30:33 +0000"
@@ -2081,6 +2225,12 @@
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2024-12-18 21:48:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-18 22:48:07 +0000"
     },
     "done": true
   },
@@ -2117,6 +2267,12 @@
   "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
     "criteria": {
       "has_wool": "2024-12-18 21:51:15 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/diorite_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-18 22:48:07 +0000"
     },
     "done": true
   },
@@ -2174,9 +2330,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-18 22:48:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-18 22:05:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-18 22:48:07 +0000"
     },
     "done": true
   },
@@ -2234,6 +2402,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-18 22:48:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-18 22:48:07 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/white_seat": {
     "criteria": {
       "has_wool": "2024-12-18 21:51:15 +0000"
@@ -2249,6 +2429,12 @@
   "create:recipes/building_blocks/oak_window": {
     "criteria": {
       "has_ingredient": "2024-12-18 21:57:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-18 22:48:07 +0000"
     },
     "done": true
   },
@@ -2269,6 +2455,7 @@
       "minecraft:taiga": "2024-12-18 22:34:19 +0000",
       "minecraft:dark_forest": "2024-12-18 22:34:40 +0000",
       "minecraft:river": "2024-12-18 22:33:57 +0000",
+      "minecraft:dripstone_caves": "2024-12-18 22:45:18 +0000",
       "minecraft:lush_caves": "2024-12-18 22:26:58 +0000"
     },
     "done": false
@@ -2276,6 +2463,12 @@
   "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
     "criteria": {
       "has_wool": "2024-12-18 21:51:15 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_diorite_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-18 22:48:07 +0000"
     },
     "done": true
   },
@@ -2303,6 +2496,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-18 22:48:07 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/zinc_nugget_from_decompacting": {
     "criteria": {
       "has_item": "2024-12-18 22:30:33 +0000"
@@ -2324,6 +2523,12 @@
   "mcwbridges:recipes/pliers": {
     "criteria": {
       "has_planks": "2024-12-18 21:48:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2024-12-18 22:48:07 +0000"
     },
     "done": true
   },
