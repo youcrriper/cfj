@@ -1003,3 +1003,20 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Dec2024 23:13:46.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cafeconpan08 has made the advancement [Ice Bucket Challenge]
 [18Dec2024 23:15:30.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADES5 has made the advancement [Diamonds!]
 [18Dec2024 23:15:57.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADES5 has made the advancement [Ice Bucket Challenge]
+[18Dec2024 23:17:53.397] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/54787, l='ServerLevel[world]', x=-1791.51, y=224.63, z=1065.70] died, message: 'Villager froze to death'
+[18Dec2024 23:20:50.405] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[18Dec2024 23:23:08.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cafeconpan08 has made the advancement [Sweet Dreams]
+[18Dec2024 23:24:15.361] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: youcriper[/172.24.1.167:53207] logged in with entity id 67161 at (-1775.7655041744342, 79.0, 425.79403182734956)
+[18Dec2024 23:24:15.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: youcriper joined the game
+[18Dec2024 23:24:16.269] [Server thread/WARN] [ImprovableSkills/]: Skill tick took too long! (844 ms, expected <50 ms!). Time map: [improvableskills:ladder_king=844, improvableskills:luck_of_the_sea=0, improvableskills:silent_foot=0, improvableskills:obsidian_skin=0, improvableskills:attack_speed=0, improvableskills:dexterous_arms=0, improvableskills:huckster=0, improvableskills:fast_swimmer=0, improvableskills:growth=0, improvableskills:accelerated_furnace=0, improvableskills:pvp=0, improvableskills:xp_plus=0, improvableskills:soft_landing=0, improvableskills:cutting=0, improvableskills:treasure_sands=0, improvableskills:mob_repellent=0, improvableskills:mining=0, improvableskills:atkdmg_ranged=0, improvableskills:alchemist=0, improvableskills:leaper=0, improvableskills:atkdmg_melee=0, improvableskills:ender_manipulator=0, improvableskills:generic_protection=0, improvableskills:health=0, improvableskills:enchanter=0, improvableskills:digging=0, improvableskills:soul_speed=0]
+[18Dec2024 23:24:16.301] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of youcriper (18)
+[18Dec2024 23:24:16.302] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to youcriper
+[18Dec2024 23:24:16.302] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9f14b36d-5b4d-33af-bc66-3bfc295459d2 was loaded
+[18Dec2024 23:24:16.303] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to youcriper (9f14b36d-5b4d-33af-bc66-3bfc295459d2)
+[18Dec2024 23:24:20.466] [Server thread/INFO] [do_a_barrel_roll/]: Client of youcriper accepted server config.
+[18Dec2024 23:24:20.488] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9f14b36d-5b4d-33af-bc66-3bfc295459d2
+[18Dec2024 23:24:21.487] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9f14b36d-5b4d-33af-bc66-3bfc295459d2
+[18Dec2024 23:24:21.489] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player youcriper (9f14b36d-5b4d-33af-bc66-3bfc295459d2) successfully connected to voice chat
+[18Dec2024 23:25:52.147] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[18Dec2024 23:25:52.285] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[18Dec2024 23:26:17.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADES5 has made the advancement [Voluntary Exile]

@@ -840,7 +840,8 @@
       "salmon": "2024-12-18 22:12:10 +0000",
       "cooked_chicken": "2024-12-18 01:53:42 +0000",
       "cod": "2024-12-18 03:52:34 +0000",
-      "cooked_salmon": "2024-12-18 02:17:29 +0000"
+      "cooked_salmon": "2024-12-18 02:17:29 +0000",
+      "carrot": "2024-12-18 23:15:13 +0000"
     },
     "done": false
   },
@@ -920,6 +921,7 @@
     "criteria": {
       "minecraft:pillager": "2024-12-18 22:07:04 +0000",
       "minecraft:skeleton": "2024-12-18 03:22:37 +0000",
+      "minecraft:vindicator": "2024-12-18 23:21:46 +0000",
       "minecraft:spider": "2024-12-18 01:27:52 +0000",
       "minecraft:creeper": "2024-12-18 22:25:26 +0000",
       "minecraft:phantom": "2024-12-18 22:41:53 +0000",
@@ -3847,6 +3849,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-18 23:20:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2024-12-18 23:05:09 +0000"
@@ -3865,15 +3873,45 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/mossy_cobblestone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2024-12-18 23:20:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-18 23:20:59 +0000"
+    },
+    "done": true
+  },
+  "globalxp:recipes/misc/xp_block": {
+    "criteria": {
+      "has_emerald": "2024-12-18 23:22:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_planks": "2024-12-18 22:38:40 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-18 23:20:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2024-12-18 23:14:33 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_mossy_cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-18 23:20:59 +0000"
     },
     "done": true
   },
@@ -3922,6 +3960,12 @@
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2024-12-18 22:38:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-18 23:20:59 +0000"
     },
     "done": true
   },
@@ -3991,6 +4035,12 @@
     },
     "done": true
   },
+  "grimoireofgaia:main/kobold": {
+    "criteria": {
+      "kill": "2024-12-18 23:14:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_chestplate": "2024-12-18 22:33:38 +0000"
@@ -4036,6 +4086,18 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2024-12-18 22:54:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-18 23:22:06 +0000"
+    },
+    "done": true
+  },
+  "illagerinvasion:recipes/misc/platinum_sheet": {
+    "criteria": {
+      "has_platinum_chunk": "2024-12-18 23:22:30 +0000"
     },
     "done": true
   },
@@ -4093,6 +4155,18 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/mossy_cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-18 23:20:59 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_stone_brick_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-18 23:20:59 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/jungle_rail_bridge": {
     "criteria": {
       "has_planks": "2024-12-18 22:38:40 +0000"
@@ -4117,6 +4191,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-18 23:20:59 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_cobblestone_bridge_stair": {
+    "criteria": {
+      "has_planks": "2024-12-18 23:20:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-18 22:38:40 +0000"
@@ -4126,6 +4212,12 @@
   "iceandfire:recipes/building_blocks/graveyard_soil": {
     "criteria": {
       "has_item": "2024-12-18 22:54:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2024-12-18 23:15:19 +0000"
     },
     "done": true
   },
@@ -4141,9 +4233,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-18 23:20:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2024-12-18 22:37:45 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_stone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2024-12-18 23:20:59 +0000"
     },
     "done": true
   },
