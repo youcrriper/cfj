@@ -994,6 +994,7 @@
       "minecraft:beach": "2024-12-18 22:22:17 +0000",
       "minecraft:river": "2024-12-18 01:38:11 +0000",
       "minecraft:swamp": "2024-12-18 22:14:38 +0000",
+      "minecraft:cold_ocean": "2024-12-18 22:56:31 +0000",
       "minecraft:forest": "2024-12-18 22:16:24 +0000",
       "minecraft:windswept_forest": "2024-12-18 03:29:12 +0000",
       "minecraft:windswept_savanna": "2024-12-18 03:26:39 +0000",
@@ -3822,6 +3823,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-18 23:12:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2024-12-18 22:54:22 +0000"
@@ -3840,15 +3847,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-12-18 23:05:09 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/ghost_chest": {
     "criteria": {
       "has_item": "2024-12-18 22:54:35 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-12-18 23:05:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_planks": "2024-12-18 22:38:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2024-12-18 23:14:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-18 22:58:25 +0000"
     },
     "done": true
   },
@@ -3882,6 +3913,12 @@
     },
     "done": true
   },
+  "create_connected:recipes/crafting/kinetics/fluid_vessel": {
+    "criteria": {
+      "has_item": "2024-12-18 23:04:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2024-12-18 22:38:40 +0000"
@@ -3906,6 +3943,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2024-12-18 23:14:33 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/banshee": {
+    "criteria": {
+      "kill": "2024-12-18 23:07:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/jungle_window": {
     "criteria": {
       "has_ingredient": "2024-12-18 22:38:40 +0000"
@@ -3918,6 +3967,12 @@
     },
     "done": true
   },
+  "iammusicplayer:recipes/misc/manual": {
+    "criteria": {
+      "has_book": "2024-12-18 23:05:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2024-12-18 22:54:22 +0000"
@@ -3927,6 +3982,12 @@
   "sereneseasons:recipes/tools/calendar": {
     "criteria": {
       "has_clock": "2024-12-18 22:33:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-18 23:05:09 +0000"
     },
     "done": true
   },
@@ -3954,9 +4015,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-18 23:05:09 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2024-12-18 22:42:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2024-12-18 23:14:33 +0000"
     },
     "done": true
   },
@@ -3966,15 +4039,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-18 23:05:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/black_dye_from_wither_rose": {
     "criteria": {
       "has_wither_rose": "2024-12-18 22:37:46 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-18 23:05:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2024-12-18 22:38:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2024-12-18 23:14:33 +0000"
     },
     "done": true
   },
@@ -4014,6 +4105,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2024-12-18 23:04:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-18 22:54:22 +0000"
@@ -4032,6 +4129,12 @@
     },
     "done": true
   },
+  "create_connected:recipes/crafting/kinetics/item_silo": {
+    "criteria": {
+      "has_item": "2024-12-18 23:04:22 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/stone_bridge_pier": {
     "criteria": {
       "has_planks": "2024-12-18 22:54:22 +0000"
@@ -4041,6 +4144,24 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2024-12-18 22:37:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2024-12-18 23:04:22 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_monasteries": {
+    "criteria": {
+      "location0": "2024-12-18 23:03:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-12-18 23:12:52 +0000"
     },
     "done": true
   },

@@ -1335,6 +1335,7 @@
     "criteria": {
       "cooked_porkchop": "2024-12-18 01:22:19 +0000",
       "cooked_mutton": "2024-12-18 03:03:20 +0000",
+      "cooked_beef": "2024-12-18 22:57:23 +0000",
       "bread": "2024-12-18 03:35:14 +0000",
       "cod": "2024-12-18 22:20:28 +0000",
       "cooked_salmon": "2024-12-18 03:20:27 +0000"
@@ -3203,6 +3204,24 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
+    "criteria": {
+      "has_item": "2024-12-18 22:55:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-18 22:54:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
+    "criteria": {
+      "has_item": "2024-12-18 22:55:00 +0000"
+    },
+    "done": true
+  },
   "grimoireofgaia:main/nine_tails": {
     "criteria": {
       "kill": "2024-12-18 22:26:01 +0000"
@@ -3221,6 +3240,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_infested_temple_map": {
+    "criteria": {
+      "find_map": "2024-12-18 23:04:34 +0000"
+    },
+    "done": true
+  },
   "globalxp:recipes/misc/xp_block": {
     "criteria": {
       "has_emerald": "2024-12-18 22:05:37 +0000"
@@ -3233,9 +3258,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-18 22:54:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-18 22:55:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2024-12-18 22:00:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-18 23:11:49 +0000"
     },
     "done": true
   },
@@ -3257,9 +3300,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-18 22:55:00 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/kobold": {
+    "criteria": {
+      "kill": "2024-12-18 23:02:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-18 22:55:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-18 22:55:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_smelts_to_glass": "2024-12-18 22:18:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_lightning_brick": {
+    "criteria": {
+      "has_item": "2024-12-18 22:55:00 +0000"
     },
     "done": true
   },
@@ -3275,6 +3348,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2024-12-18 22:54:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2024-12-18 22:05:37 +0000"
@@ -3284,6 +3363,12 @@
   "illagerinvasion:recipes/misc/platinum_sheet": {
     "criteria": {
       "has_platinum_chunk": "2024-12-18 22:05:37 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:recipes/misc/fur_to_leather": {
+    "criteria": {
+      "has_fur": "2024-12-18 23:02:33 +0000"
     },
     "done": true
   },
@@ -3299,9 +3384,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-18 22:55:00 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_dispenser": {
     "criteria": {
       "has_bow": "2024-12-18 22:00:17 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_stone_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-18 22:55:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-18 22:55:00 +0000"
     },
     "done": true
   },
@@ -3347,6 +3450,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/stone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2024-12-18 22:55:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2024-12-18 22:13:10 +0000"
@@ -3356,6 +3465,18 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2024-12-18 22:07:56 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_monasteries": {
+    "criteria": {
+      "location0": "2024-12-18 23:03:55 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/stone_brick_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-18 22:55:00 +0000"
     },
     "done": true
   },
