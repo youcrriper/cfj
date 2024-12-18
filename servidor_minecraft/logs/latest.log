@@ -906,3 +906,19 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Dec2024 21:53:48.310] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to Zoti5 (8d55b18e-3be9-38ad-9d11-f3bbb2141d3d)
 [18Dec2024 21:53:48.908] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8d55b18e-3be9-38ad-9d11-f3bbb2141d3d
 [18Dec2024 21:53:48.909] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Zoti5 (8d55b18e-3be9-38ad-9d11-f3bbb2141d3d) successfully connected to voice chat
+[18Dec2024 21:54:23.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cafeconpan08 was turned to ice by a dragon
+[18Dec2024 21:54:24.960] [Server thread/INFO] [do_a_barrel_roll/]: Client of cafeconpan08 accepted server config.
+[18Dec2024 21:56:01.607] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Enzosunder lost connection: Disconnected
+[18Dec2024 21:56:01.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enzosunder left the game
+[18Dec2024 21:56:01.608] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1c8ea871-9dbc-388b-afd4-075bad094fbf was unloaded
+[18Dec2024 21:56:01.609] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Enzosunder
+[18Dec2024 21:58:12.364] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Enzosunder[/172.24.78.155:58378] logged in with entity id 13823 at (-216.42720189242436, 32.0, -57.54016991612444)
+[18Dec2024 21:58:12.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enzosunder joined the game
+[18Dec2024 21:58:13.370] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Enzosunder (18)
+[18Dec2024 21:58:13.371] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Enzosunder
+[18Dec2024 21:58:13.423] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1c8ea871-9dbc-388b-afd4-075bad094fbf was loaded
+[18Dec2024 21:58:19.306] [Server thread/INFO] [do_a_barrel_roll/]: Client of Enzosunder accepted server config.
+[18Dec2024 21:58:19.662] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1c8ea871-9dbc-388b-afd4-075bad094fbf
+[18Dec2024 21:58:19.901] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to Enzosunder (1c8ea871-9dbc-388b-afd4-075bad094fbf)
+[18Dec2024 21:58:20.663] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1c8ea871-9dbc-388b-afd4-075bad094fbf
+[18Dec2024 21:58:20.664] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Enzosunder (1c8ea871-9dbc-388b-afd4-075bad094fbf) successfully connected to voice chat
