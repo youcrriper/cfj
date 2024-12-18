@@ -936,3 +936,52 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Dec2024 22:15:03.489] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/22023, l='ServerLevel[world]', x=-927.98, y=122.08, z=-501.85]
 [18Dec2024 22:16:55.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enzosunder has made the advancement [Ice Bucket Challenge]
 [18Dec2024 22:19:52.627] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[18Dec2024 22:28:39.903] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zoti5 lost connection: Disconnected
+[18Dec2024 22:28:39.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zoti5 left the game
+[18Dec2024 22:28:39.904] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 8d55b18e-3be9-38ad-9d11-f3bbb2141d3d was unloaded
+[18Dec2024 22:28:39.905] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zoti5
+[18Dec2024 22:30:37.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: youcriper has made the advancement [Best Friends Forever]
+[18Dec2024 22:30:50.255] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: youcriper lost connection: Disconnected
+[18Dec2024 22:30:50.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: youcriper left the game
+[18Dec2024 22:30:50.256] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9f14b36d-5b4d-33af-bc66-3bfc295459d2 was unloaded
+[18Dec2024 22:30:50.256] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client youcriper
+[18Dec2024 22:32:17.179] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zoti5[/172.24.106.165:56075] logged in with entity id 34018 at (-1807.344923916994, 114.60005185592927, 144.16595610517498)
+[18Dec2024 22:32:17.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zoti5 joined the game
+[18Dec2024 22:32:17.593] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zoti5 (18)
+[18Dec2024 22:32:17.594] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zoti5
+[18Dec2024 22:32:17.626] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 8d55b18e-3be9-38ad-9d11-f3bbb2141d3d was loaded
+[18Dec2024 22:32:17.630] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to Zoti5 (8d55b18e-3be9-38ad-9d11-f3bbb2141d3d)
+[18Dec2024 22:32:22.176] [Server thread/INFO] [do_a_barrel_roll/]: Client of Zoti5 accepted server config.
+[18Dec2024 22:32:22.280] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8d55b18e-3be9-38ad-9d11-f3bbb2141d3d
+[18Dec2024 22:32:23.281] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8d55b18e-3be9-38ad-9d11-f3bbb2141d3d
+[18Dec2024 22:32:23.282] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Zoti5 (8d55b18e-3be9-38ad-9d11-f3bbb2141d3d) successfully connected to voice chat
+[18Dec2024 22:34:18.724] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: youcriper[/172.24.1.167:52354] logged in with entity id 35787 at (-1821.7222786224918, 107.0, 144.77388377264018)
+[18Dec2024 22:34:18.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: youcriper joined the game
+[18Dec2024 22:34:18.992] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of youcriper (18)
+[18Dec2024 22:34:18.993] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to youcriper
+[18Dec2024 22:34:18.993] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9f14b36d-5b4d-33af-bc66-3bfc295459d2 was loaded
+[18Dec2024 22:34:18.993] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to youcriper (9f14b36d-5b4d-33af-bc66-3bfc295459d2)
+[18Dec2024 22:34:23.506] [Server thread/INFO] [do_a_barrel_roll/]: Client of youcriper accepted server config.
+[18Dec2024 22:34:23.578] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9f14b36d-5b4d-33af-bc66-3bfc295459d2
+[18Dec2024 22:34:24.579] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9f14b36d-5b4d-33af-bc66-3bfc295459d2
+[18Dec2024 22:34:24.580] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player youcriper (9f14b36d-5b4d-33af-bc66-3bfc295459d2) successfully connected to voice chat
+[18Dec2024 22:35:35.017] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADES5 moved wrongly!
+[18Dec2024 22:35:53.904] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
+[18Dec2024 22:35:54.473] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
+[18Dec2024 22:35:54.474] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
+[18Dec2024 22:37:45.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zoti5 has made the advancement [Ice Bucket Challenge]
+[18Dec2024 22:38:42.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cafeconpan08 has made the advancement [Suit Up]
+[18Dec2024 22:40:58.203] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Enzosunder lost connection: Disconnected
+[18Dec2024 22:40:58.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enzosunder left the game
+[18Dec2024 22:40:58.204] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1c8ea871-9dbc-388b-afd4-075bad094fbf was unloaded
+[18Dec2024 22:40:58.204] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Enzosunder
+[18Dec2024 22:41:59.361] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Enzosunder[/172.24.78.155:61071] logged in with entity id 40988 at (1063.19849817417, 75.0, 922.9483039809701)
+[18Dec2024 22:41:59.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enzosunder joined the game
+[18Dec2024 22:42:00.219] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Enzosunder (18)
+[18Dec2024 22:42:00.220] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Enzosunder
+[18Dec2024 22:42:00.269] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1c8ea871-9dbc-388b-afd4-075bad094fbf was loaded
+[18Dec2024 22:42:06.117] [Server thread/INFO] [do_a_barrel_roll/]: Client of Enzosunder accepted server config.
+[18Dec2024 22:42:06.473] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1c8ea871-9dbc-388b-afd4-075bad094fbf
+[18Dec2024 22:42:06.716] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to Enzosunder (1c8ea871-9dbc-388b-afd4-075bad094fbf)
+[18Dec2024 22:42:07.475] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1c8ea871-9dbc-388b-afd4-075bad094fbf
+[18Dec2024 22:42:07.475] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Enzosunder (1c8ea871-9dbc-388b-afd4-075bad094fbf) successfully connected to voice chat

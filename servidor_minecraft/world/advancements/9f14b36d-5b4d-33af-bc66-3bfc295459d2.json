@@ -931,6 +931,7 @@
       "minecraft:forest": "2024-12-18 22:16:12 +0000",
       "minecraft:windswept_forest": "2024-12-18 03:31:41 +0000",
       "minecraft:windswept_savanna": "2024-12-18 03:22:38 +0000",
+      "minecraft:windswept_gravelly_hills": "2024-12-18 22:37:57 +0000",
       "minecraft:plains": "2024-12-18 22:16:20 +0000"
     },
     "done": false
@@ -1312,6 +1313,7 @@
       "bread": "2024-12-18 01:53:33 +0000",
       "golden_apple": "2024-12-18 03:40:51 +0000",
       "salmon": "2024-12-18 01:56:36 +0000",
+      "cod": "2024-12-18 22:21:10 +0000",
       "carrot": "2024-12-18 03:50:10 +0000"
     },
     "done": false
@@ -1576,6 +1578,7 @@
       "minecraft:spider": "2024-12-18 03:29:01 +0000",
       "minecraft:creeper": "2024-12-18 03:14:15 +0000",
       "minecraft:cave_spider": "2024-12-18 02:00:26 +0000",
+      "minecraft:stray": "2024-12-18 22:41:35 +0000",
       "minecraft:zombie": "2024-12-18 02:02:26 +0000",
       "minecraft:zombie_villager": "2024-12-18 22:06:41 +0000"
     },
@@ -3549,9 +3552,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
+  "grimoireofgaia:main/mimic": {
     "criteria": {
-      "has_cod": "2024-12-18 22:12:41 +0000"
+      "kill": "2024-12-18 21:47:46 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2024-12-18 22:05:28 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2024-12-18 22:05:28 +0000"
     },
     "done": true
   },
@@ -3573,12 +3588,6 @@
     },
     "done": true
   },
-  "enemyexpansion:hunted": {
-    "criteria": {
-      "hunted_0": "2024-12-18 22:08:52 +0000"
-    },
-    "done": true
-  },
   "iammusicplayer:recipes/misc/manual": {
     "criteria": {
       "has_book": "2024-12-18 22:06:36 +0000"
@@ -3594,18 +3603,6 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2024-12-18 22:06:36 +0000"
-    },
-    "done": true
-  },
-  "grimoireofgaia:main/mimic": {
-    "criteria": {
-      "kill": "2024-12-18 21:47:46 +0000"
-    },
-    "done": true
-  },
-  "grimoireofgaia:main/siren": {
-    "criteria": {
-      "kill": "2024-12-18 22:12:03 +0000"
     },
     "done": true
   },
@@ -3627,12 +3624,6 @@
     },
     "done": true
   },
-  "illagerinvasion:recipes/misc/platinum_sheet": {
-    "criteria": {
-      "has_platinum_chunk": "2024-12-18 22:07:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2024-12-18 22:06:36 +0000"
@@ -3642,12 +3633,6 @@
   "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
     "criteria": {
       "has_book": "2024-12-18 22:06:36 +0000"
-    },
-    "done": true
-  },
-  "grimoireofgaia:main/naga": {
-    "criteria": {
-      "kill": "2024-12-18 22:14:52 +0000"
     },
     "done": true
   },
@@ -3663,9 +3648,33 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+  "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
-      "has_backpack": "2024-12-18 22:05:28 +0000"
+      "has_paper": "2024-12-18 22:06:36 +0000"
+    },
+    "done": true
+  },
+  "illagerinvasion:recipes/misc/platinum_sheet": {
+    "criteria": {
+      "has_platinum_chunk": "2024-12-18 22:07:27 +0000"
+    },
+    "done": true
+  },
+  "enemyexpansion:hunted": {
+    "criteria": {
+      "hunted_0": "2024-12-18 22:08:52 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/siren": {
+    "criteria": {
+      "kill": "2024-12-18 22:12:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-12-18 22:12:41 +0000"
     },
     "done": true
   },
@@ -3675,21 +3684,105 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cartography_table": {
-    "criteria": {
-      "has_paper": "2024-12-18 22:06:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2024-12-18 22:12:41 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+  "grimoireofgaia:main/naga": {
     "criteria": {
-      "has_backpack": "2024-12-18 22:05:28 +0000"
+      "kill": "2024-12-18 22:14:52 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/sludge_girl": {
+    "criteria": {
+      "kill": "2024-12-18 22:20:59 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/cecaelia": {
+    "criteria": {
+      "kill": "2024-12-18 22:21:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-18 22:23:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-18 22:23:34 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/dullahan": {
+    "criteria": {
+      "kill": "2024-12-18 22:26:33 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2024-12-18 22:27:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-18 22:30:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2024-12-18 22:37:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2024-12-18 22:37:54 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2024-12-18 22:42:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2024-12-18 22:37:54 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:recipes/misc/parabolic_antenna": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-18 22:37:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2024-12-18 22:37:54 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2024-12-18 22:42:11 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:recipes/misc/radio_antenna": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-18 22:37:59 +0000"
     },
     "done": true
   },
