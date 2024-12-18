@@ -928,6 +928,7 @@
       "minecraft:beach": "2024-12-18 22:17:18 +0000",
       "minecraft:river": "2024-12-18 01:52:17 +0000",
       "minecraft:swamp": "2024-12-18 22:14:45 +0000",
+      "minecraft:cold_ocean": "2024-12-18 23:34:45 +0000",
       "minecraft:forest": "2024-12-18 22:16:12 +0000",
       "minecraft:windswept_forest": "2024-12-18 03:31:41 +0000",
       "minecraft:windswept_savanna": "2024-12-18 03:22:38 +0000",
@@ -3783,6 +3784,12 @@
   "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2024-12-18 22:42:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-18 23:27:18 +0000"
     },
     "done": true
   },

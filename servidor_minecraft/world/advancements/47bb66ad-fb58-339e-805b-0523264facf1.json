@@ -1347,6 +1347,7 @@
       "minecraft:beach": "2024-12-18 22:17:20 +0000",
       "minecraft:river": "2024-12-18 01:38:16 +0000",
       "minecraft:swamp": "2024-12-18 22:14:39 +0000",
+      "minecraft:cold_ocean": "2024-12-18 23:34:44 +0000",
       "minecraft:forest": "2024-12-18 22:16:22 +0000",
       "minecraft:windswept_forest": "2024-12-18 03:31:39 +0000",
       "minecraft:windswept_savanna": "2024-12-18 03:24:40 +0000",
@@ -2385,6 +2386,7 @@
     "criteria": {
       "minecraft:pillager": "2024-12-18 22:05:36 +0000",
       "minecraft:skeleton": "2024-12-18 03:22:18 +0000",
+      "minecraft:vindicator": "2024-12-18 23:24:57 +0000",
       "minecraft:spider": "2024-12-18 02:36:42 +0000",
       "minecraft:creeper": "2024-12-18 22:07:55 +0000",
       "minecraft:phantom": "2024-12-18 22:41:17 +0000",
@@ -3267,6 +3269,12 @@
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2024-12-18 23:15:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-18 23:26:17 +0000"
     },
     "done": true
   },
