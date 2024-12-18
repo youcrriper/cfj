@@ -2379,7 +2379,8 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-18 03:22:18 +0000",
       "minecraft:spider": "2024-12-18 02:36:42 +0000",
-      "minecraft:cave_spider": "2024-12-18 02:00:21 +0000"
+      "minecraft:cave_spider": "2024-12-18 02:00:21 +0000",
+      "minecraft:zombie": "2024-12-18 21:47:30 +0000"
     },
     "done": false
   },
@@ -3178,6 +3179,12 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2024-12-18 04:01:32 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/orc": {
+    "criteria": {
+      "kill": "2024-12-18 21:41:06 +0000"
     },
     "done": true
   },
