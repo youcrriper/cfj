@@ -928,3 +928,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Dec2024 22:05:19.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enzosunder has made the advancement [Suit Up]
 [18Dec2024 22:05:30.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enzosunder has made the advancement [Isn't It Iron Pick]
 [18Dec2024 22:08:52.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: youcriper has reached the goal [Hunted]
+[18Dec2024 22:14:44.227] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/22020, l='ServerLevel[world]', x=-911.69, y=104.01, z=-498.68]
+[18Dec2024 22:14:44.227] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/22021, l='ServerLevel[world]', x=-911.91, y=104.37, z=-497.74]
+[18Dec2024 22:14:44.228] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/22027, l='ServerLevel[world]', x=-911.16, y=103.78, z=-497.76]
+[18Dec2024 22:14:44.228] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/22028, l='ServerLevel[world]', x=-910.30, y=103.53, z=-497.76]
+[18Dec2024 22:14:44.228] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/22029, l='ServerLevel[world]', x=-911.77, y=100.62, z=-494.13]
+[18Dec2024 22:15:03.489] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/22023, l='ServerLevel[world]', x=-927.98, y=122.08, z=-501.85]
+[18Dec2024 22:16:55.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enzosunder has made the advancement [Ice Bucket Challenge]
+[18Dec2024 22:19:52.627] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind

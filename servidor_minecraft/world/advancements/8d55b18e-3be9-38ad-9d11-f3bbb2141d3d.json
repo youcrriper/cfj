@@ -832,10 +832,12 @@
       "cooked_porkchop": "2024-12-18 03:03:17 +0000",
       "cooked_mutton": "2024-12-18 02:02:37 +0000",
       "sweet_berries": "2024-12-18 01:20:35 +0000",
+      "beef": "2024-12-18 22:12:46 +0000",
       "porkchop": "2024-12-18 03:59:04 +0000",
       "pufferfish": "2024-12-18 03:55:21 +0000",
       "bread": "2024-12-18 01:57:39 +0000",
       "golden_apple": "2024-12-18 21:47:51 +0000",
+      "salmon": "2024-12-18 22:12:10 +0000",
       "cooked_chicken": "2024-12-18 01:53:42 +0000",
       "cod": "2024-12-18 03:52:34 +0000",
       "cooked_salmon": "2024-12-18 02:17:29 +0000"
@@ -987,6 +989,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:river": "2024-12-18 01:38:11 +0000",
+      "minecraft:swamp": "2024-12-18 22:14:38 +0000",
+      "minecraft:forest": "2024-12-18 22:16:24 +0000",
       "minecraft:windswept_forest": "2024-12-18 03:29:12 +0000",
       "minecraft:windswept_savanna": "2024-12-18 03:26:39 +0000",
       "minecraft:plains": "2024-12-18 03:41:35 +0000"
@@ -3675,6 +3679,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2024-12-18 22:12:34 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_sticky_piston": {
     "criteria": {
       "has_slime_ball": "2024-12-18 22:04:53 +0000"
@@ -3684,6 +3694,12 @@
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2024-12-18 22:04:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2024-12-18 22:12:34 +0000"
     },
     "done": true
   },
@@ -3726,6 +3742,12 @@
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2024-12-18 22:06:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2024-12-18 22:12:34 +0000"
     },
     "done": true
   },

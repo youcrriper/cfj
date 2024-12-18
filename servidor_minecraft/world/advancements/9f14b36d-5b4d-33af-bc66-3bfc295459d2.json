@@ -925,9 +925,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2024-12-18 22:17:18 +0000",
       "minecraft:river": "2024-12-18 01:52:17 +0000",
+      "minecraft:swamp": "2024-12-18 22:14:45 +0000",
+      "minecraft:forest": "2024-12-18 22:16:12 +0000",
       "minecraft:windswept_forest": "2024-12-18 03:31:41 +0000",
-      "minecraft:windswept_savanna": "2024-12-18 03:22:38 +0000"
+      "minecraft:windswept_savanna": "2024-12-18 03:22:38 +0000",
+      "minecraft:plains": "2024-12-18 22:16:20 +0000"
     },
     "done": false
   },
@@ -1301,6 +1305,7 @@
     "criteria": {
       "cooked_porkchop": "2024-12-18 02:01:03 +0000",
       "cooked_mutton": "2024-12-18 02:23:20 +0000",
+      "cooked_beef": "2024-12-18 22:19:37 +0000",
       "beef": "2024-12-18 03:29:16 +0000",
       "porkchop": "2024-12-18 02:23:10 +0000",
       "mutton": "2024-12-18 01:57:57 +0000",
@@ -3544,6 +3549,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-12-18 22:12:41 +0000"
+    },
+    "done": true
+  },
   "grimoireofgaia:main/deathword": {
     "criteria": {
       "kill": "2024-12-18 22:06:35 +0000"
@@ -3592,6 +3603,12 @@
     },
     "done": true
   },
+  "grimoireofgaia:main/siren": {
+    "criteria": {
+      "kill": "2024-12-18 22:12:03 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
     "criteria": {
       "has_book": "2024-12-18 22:06:36 +0000"
@@ -3628,6 +3645,12 @@
     },
     "done": true
   },
+  "grimoireofgaia:main/naga": {
+    "criteria": {
+      "kill": "2024-12-18 22:14:52 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/sand_paper": {
     "criteria": {
       "has_item": "2024-12-18 22:06:36 +0000"
@@ -3646,9 +3669,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-12-18 22:12:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2024-12-18 22:06:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-12-18 22:12:41 +0000"
     },
     "done": true
   },
