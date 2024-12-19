@@ -4070,77 +4070,23 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-19 00:26:31 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-19 00:26:31 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-19 00:26:31 +0000"
-    },
-    "done": false
-  },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-12-19 00:26:31 +0000"
+      "requirement": "2024-12-19 00:35:30 +0000"
     },
     "done": false
   },
-  "incendium:technical/holy_wrath": {
+  "securitycraft:recipes/misc/block_pocket_manager": {
     "criteria": {
-      "log_spam_fixer": "2024-12-19 00:26:31 +0000"
+      "has_redstone_block": "2024-12-19 00:26:48 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "minecraft:recipes/redstone/redstone": {
     "criteria": {
-      "log_spam_fixer": "2024-12-19 00:26:31 +0000"
+      "has_redstone_block": "2024-12-19 00:26:48 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-19 00:26:31 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-19 00:26:31 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-19 00:26:31 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-19 00:26:31 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-19 00:26:31 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-19 00:26:31 +0000"
-    },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
@@ -4181,12 +4127,6 @@
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-19 00:26:49 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/block_pocket_manager": {
-    "criteria": {
-      "has_redstone_block": "2024-12-19 00:26:48 +0000"
     },
     "done": true
   },
@@ -4286,12 +4226,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone": {
-    "criteria": {
-      "has_redstone_block": "2024-12-19 00:26:48 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_diorite_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-19 00:26:49 +0000"
@@ -4355,6 +4289,18 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2024-12-19 00:26:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2024-12-19 00:35:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-19 00:35:04 +0000"
     },
     "done": true
   },

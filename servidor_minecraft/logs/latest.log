@@ -1631,3 +1631,42 @@
 [19Dec2024 00:26:54.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: youcriper left the game
 [19Dec2024 00:26:54.752] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9f14b36d-5b4d-33af-bc66-3bfc295459d2 was unloaded
 [19Dec2024 00:26:54.752] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client youcriper
+[19Dec2024 00:29:19.248] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: youcriper[/172.24.1.167:54399] logged in with entity id 93851 at (-2218.9362018791894, 40.0, 1499.7817942411064)
+[19Dec2024 00:29:19.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: youcriper joined the game
+[19Dec2024 00:29:19.915] [Server thread/WARN] [ImprovableSkills/]: Skill tick took too long! (614 ms, expected <50 ms!). Time map: [improvableskills:ladder_king=614, improvableskills:luck_of_the_sea=0, improvableskills:silent_foot=0, improvableskills:obsidian_skin=0, improvableskills:attack_speed=0, improvableskills:dexterous_arms=0, improvableskills:huckster=0, improvableskills:fast_swimmer=0, improvableskills:growth=0, improvableskills:accelerated_furnace=0, improvableskills:pvp=0, improvableskills:xp_plus=0, improvableskills:soft_landing=0, improvableskills:cutting=0, improvableskills:treasure_sands=0, improvableskills:mob_repellent=0, improvableskills:mining=0, improvableskills:atkdmg_ranged=0, improvableskills:alchemist=0, improvableskills:leaper=0, improvableskills:atkdmg_melee=0, improvableskills:ender_manipulator=0, improvableskills:generic_protection=0, improvableskills:health=0, improvableskills:enchanter=0, improvableskills:digging=0, improvableskills:soul_speed=0]
+[19Dec2024 00:29:19.918] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of youcriper (18)
+[19Dec2024 00:29:19.918] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to youcriper
+[19Dec2024 00:29:19.918] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9f14b36d-5b4d-33af-bc66-3bfc295459d2 was loaded
+[19Dec2024 00:29:19.919] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to youcriper (9f14b36d-5b4d-33af-bc66-3bfc295459d2)
+[19Dec2024 00:29:23.949] [Server thread/INFO] [do_a_barrel_roll/]: Client of youcriper accepted server config.
+[19Dec2024 00:29:23.961] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9f14b36d-5b4d-33af-bc66-3bfc295459d2
+[19Dec2024 00:29:24.963] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9f14b36d-5b4d-33af-bc66-3bfc295459d2
+[19Dec2024 00:29:24.964] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player youcriper (9f14b36d-5b4d-33af-bc66-3bfc295459d2) successfully connected to voice chat
+[19Dec2024 00:29:35.465] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ADES5[/172.24.98.170:50922] logged in with entity id 94194 at (9.924145200610917, 93.0, 5.34339748880548)
+[19Dec2024 00:29:35.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADES5 joined the game
+[19Dec2024 00:29:36.511] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ADES5 (18)
+[19Dec2024 00:29:36.511] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ADES5
+[19Dec2024 00:29:36.560] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 47bb66ad-fb58-339e-805b-0523264facf1 was loaded
+[19Dec2024 00:29:43.070] [Server thread/INFO] [do_a_barrel_roll/]: Client of ADES5 accepted server config.
+[19Dec2024 00:29:43.401] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 47bb66ad-fb58-339e-805b-0523264facf1
+[19Dec2024 00:29:43.604] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to ADES5 (47bb66ad-fb58-339e-805b-0523264facf1)
+[19Dec2024 00:29:44.400] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 47bb66ad-fb58-339e-805b-0523264facf1
+[19Dec2024 00:29:44.400] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ADES5 (47bb66ad-fb58-339e-805b-0523264facf1) successfully connected to voice chat
+[19Dec2024 00:29:54.703] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2, y=87, z=13}
+[19Dec2024 00:29:57.108] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@6a5c24ed[id=<null>,name=ElPatoAmarillo,properties={},legacy=false] (/172.24.58.232:62644): Took too long to log in
+[19Dec2024 00:29:57.109] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6a5c24ed[id=<null>,name=ElPatoAmarillo,properties={},legacy=false] (/172.24.58.232:62644) lost connection: Took too long to log in
+[19Dec2024 00:29:57.155] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Dec2024 00:30:53.253] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@40480ab9[id=<null>,name=ElPatoAmarillo,properties={},legacy=false] (/172.24.58.232:62689): Took too long to log in
+[19Dec2024 00:30:53.254] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@40480ab9[id=<null>,name=ElPatoAmarillo,properties={},legacy=false] (/172.24.58.232:62689) lost connection: Took too long to log in
+[19Dec2024 00:30:53.305] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Dec2024 00:34:36.041] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
+[19Dec2024 00:34:36.043] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
+[19Dec2024 00:34:40.032] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
+[19Dec2024 00:34:40.033] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
+[19Dec2024 00:34:40.033] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
+[19Dec2024 00:34:40.042] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-291, y=-57, z=-315}
+[19Dec2024 00:34:40.042] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=-57, z=-313}
+[19Dec2024 00:34:40.042] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-294, y=-57, z=-313}
+[19Dec2024 00:34:40.042] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-296, y=-57, z=-313}
+[19Dec2024 00:34:40.042] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-295, y=-57, z=-315}
+[19Dec2024 00:34:40.043] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-293, y=-57, z=-315}
