@@ -805,3 +805,21 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Dec2024 21:29:13.041] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
 [19Dec2024 21:29:33.431] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5408ms or 108 ticks behind
 [19Dec2024 21:34:11.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enzosunder has made the advancement [Take Aim]
+[19Dec2024 21:42:09.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cafeconpan08 has made the advancement [Monster Hunter]
+[19Dec2024 21:43:36.155] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ADES5[/172.24.98.170:54939] logged in with entity id 5833 at (-255.56900158484825, 60.0, -189.3591087855813)
+[19Dec2024 21:43:36.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADES5 joined the game
+[19Dec2024 21:43:37.130] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ADES5 (18)
+[19Dec2024 21:43:37.130] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ADES5
+[19Dec2024 21:43:37.133] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 47bb66ad-fb58-339e-805b-0523264facf1 was loaded
+[19Dec2024 21:43:42.918] [Server thread/INFO] [do_a_barrel_roll/]: Client of ADES5 accepted server config.
+[19Dec2024 21:43:43.162] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 47bb66ad-fb58-339e-805b-0523264facf1
+[19Dec2024 21:43:43.342] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to ADES5 (47bb66ad-fb58-339e-805b-0523264facf1)
+[19Dec2024 21:43:44.159] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 47bb66ad-fb58-339e-805b-0523264facf1
+[19Dec2024 21:43:44.160] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ADES5 (47bb66ad-fb58-339e-805b-0523264facf1) successfully connected to voice chat
+[19Dec2024 21:46:27.998] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[19Dec2024 21:47:11.342] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[19Dec2024 21:48:11.277] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[19Dec2024 21:48:36.190] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[19Dec2024 21:48:54.048] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2875ms or 57 ticks behind
+[19Dec2024 21:49:11.264] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2241ms or 44 ticks behind
+[19Dec2024 21:49:44.126] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
