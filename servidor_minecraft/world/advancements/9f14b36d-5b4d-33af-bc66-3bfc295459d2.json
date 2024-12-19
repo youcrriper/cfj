@@ -928,6 +928,7 @@
       "minecraft:beach": "2024-12-18 22:17:18 +0000",
       "minecraft:dark_forest": "2024-12-19 02:13:26 +0000",
       "minecraft:river": "2024-12-18 01:52:17 +0000",
+      "minecraft:dripstone_caves": "2024-12-19 22:58:13 +0000",
       "minecraft:swamp": "2024-12-18 22:14:45 +0000",
       "minecraft:cold_ocean": "2024-12-18 23:34:45 +0000",
       "minecraft:forest": "2024-12-18 22:16:12 +0000",
@@ -4864,87 +4865,15 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "dungeons_arise:find_bathhouse": {
     "criteria": {
-      "log_spam_fixer": "2024-12-19 02:23:39 +0000"
+      "location0": "2024-12-19 01:59:26 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-19 02:23:39 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-19 02:23:39 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-19 02:23:39 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-19 02:23:39 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-19 02:23:39 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-19 02:23:39 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-19 02:23:39 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-19 02:23:39 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-19 02:23:39 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-19 02:23:39 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-19 02:23:39 +0000"
-    },
-    "done": false
+    "done": true
   },
   "grimoireofgaia:main/toad": {
     "criteria": {
       "kill": "2024-12-19 02:15:17 +0000"
-    },
-    "done": true
-  },
-  "illagerinvasion:recipes/misc/hallowed_gem": {
-    "criteria": {
-      "has_unusual_dust_and_illusionary_dust": "2024-12-19 02:15:56 +0000"
     },
     "done": true
   },
@@ -4972,11 +4901,83 @@
     },
     "done": true
   },
-  "dungeons_arise:find_bathhouse": {
+  "illagerinvasion:recipes/misc/hallowed_gem": {
     "criteria": {
-      "location0": "2024-12-19 01:59:26 +0000"
+      "has_unusual_dust_and_illusionary_dust": "2024-12-19 02:15:56 +0000"
     },
     "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-19 23:07:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-19 23:07:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-19 23:07:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-19 23:07:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-19 23:07:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-19 23:07:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-19 23:07:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-19 23:07:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-19 23:07:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-19 23:07:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-19 23:07:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-19 23:07:04 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

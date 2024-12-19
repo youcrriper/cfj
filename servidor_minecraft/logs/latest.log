@@ -1627,3 +1627,40 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Dec2024 23:01:11.660] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 47bb66ad-fb58-339e-805b-0523264facf1
 [19Dec2024 23:01:12.655] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 47bb66ad-fb58-339e-805b-0523264facf1
 [19Dec2024 23:01:12.655] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ADES5 (47bb66ad-fb58-339e-805b-0523264facf1) successfully connected to voice chat
+[19Dec2024 23:03:07.805] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: cafeconpan08 lost connection: Disconnected
+[19Dec2024 23:03:07.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cafeconpan08 left the game
+[19Dec2024 23:03:07.806] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 127076bd-d1f9-30f9-bc36-cc9b6062ff13 was unloaded
+[19Dec2024 23:03:07.806] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client cafeconpan08
+[19Dec2024 23:07:08.748] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: youcriper lost connection: Disconnected
+[19Dec2024 23:07:08.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: youcriper left the game
+[19Dec2024 23:07:08.749] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9f14b36d-5b4d-33af-bc66-3bfc295459d2 was unloaded
+[19Dec2024 23:07:08.750] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client youcriper
+[19Dec2024 23:08:47.286] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADES5 lost connection: Disconnected
+[19Dec2024 23:08:47.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADES5 left the game
+[19Dec2024 23:08:47.286] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 47bb66ad-fb58-339e-805b-0523264facf1 was unloaded
+[19Dec2024 23:08:47.287] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ADES5
+[19Dec2024 23:10:01.502] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ADES5[/172.24.98.170:55742] logged in with entity id 37663 at (15.554728981850234, 25.0, 34.61640805517633)
+[19Dec2024 23:10:01.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADES5 joined the game
+[19Dec2024 23:10:02.491] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ADES5 (18)
+[19Dec2024 23:10:02.491] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ADES5
+[19Dec2024 23:10:02.520] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 47bb66ad-fb58-339e-805b-0523264facf1 was loaded
+[19Dec2024 23:10:08.686] [Server thread/INFO] [do_a_barrel_roll/]: Client of ADES5 accepted server config.
+[19Dec2024 23:10:08.970] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 47bb66ad-fb58-339e-805b-0523264facf1
+[19Dec2024 23:10:09.344] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to ADES5 (47bb66ad-fb58-339e-805b-0523264facf1)
+[19Dec2024 23:10:09.970] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 47bb66ad-fb58-339e-805b-0523264facf1
+[19Dec2024 23:10:09.971] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ADES5 (47bb66ad-fb58-339e-805b-0523264facf1) successfully connected to voice chat
+[19Dec2024 23:10:23.542] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Enzosunder lost connection: Disconnected
+[19Dec2024 23:10:23.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enzosunder left the game
+[19Dec2024 23:10:23.543] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1c8ea871-9dbc-388b-afd4-075bad094fbf was unloaded
+[19Dec2024 23:10:23.544] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Enzosunder
+[19Dec2024 23:11:23.795] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Enzosunder[/172.24.78.155:49427] logged in with entity id 37867 at (-144.52031269931544, 72.0, 3118.6814026425736)
+[19Dec2024 23:11:23.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enzosunder joined the game
+[19Dec2024 23:11:24.533] [Server thread/WARN] [ImprovableSkills/]: Skill tick took too long! (637 ms, expected <50 ms!). Time map: [improvableskills:ladder_king=637, improvableskills:luck_of_the_sea=0, improvableskills:silent_foot=0, improvableskills:obsidian_skin=0, improvableskills:attack_speed=0, improvableskills:dexterous_arms=0, improvableskills:huckster=0, improvableskills:fast_swimmer=0, improvableskills:growth=0, improvableskills:accelerated_furnace=0, improvableskills:pvp=0, improvableskills:xp_plus=0, improvableskills:soft_landing=0, improvableskills:cutting=0, improvableskills:treasure_sands=0, improvableskills:mob_repellent=0, improvableskills:mining=0, improvableskills:atkdmg_ranged=0, improvableskills:alchemist=0, improvableskills:leaper=0, improvableskills:atkdmg_melee=0, improvableskills:ender_manipulator=0, improvableskills:generic_protection=0, improvableskills:health=0, improvableskills:enchanter=0, improvableskills:digging=0, improvableskills:soul_speed=0]
+[19Dec2024 23:11:24.619] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Enzosunder (18)
+[19Dec2024 23:11:24.619] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Enzosunder
+[19Dec2024 23:11:24.645] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1c8ea871-9dbc-388b-afd4-075bad094fbf was loaded
+[19Dec2024 23:11:30.340] [Server thread/INFO] [do_a_barrel_roll/]: Client of Enzosunder accepted server config.
+[19Dec2024 23:11:30.422] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1c8ea871-9dbc-388b-afd4-075bad094fbf
+[19Dec2024 23:11:30.990] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to Enzosunder (1c8ea871-9dbc-388b-afd4-075bad094fbf)
+[19Dec2024 23:11:31.421] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1c8ea871-9dbc-388b-afd4-075bad094fbf
+[19Dec2024 23:11:31.421] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Enzosunder (1c8ea871-9dbc-388b-afd4-075bad094fbf) successfully connected to voice chat
