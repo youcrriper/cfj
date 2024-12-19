@@ -1774,7 +1774,8 @@
       "minecraft:dripstone_caves": "2024-12-18 22:45:13 +0000",
       "minecraft:swamp": "2024-12-19 02:13:56 +0000",
       "minecraft:lush_caves": "2024-12-18 22:26:34 +0000",
-      "minecraft:deep_dark": "2024-12-19 21:27:57 +0000"
+      "minecraft:deep_dark": "2024-12-19 21:27:57 +0000",
+      "minecraft:meadow": "2024-12-19 21:53:22 +0000"
     },
     "done": false
   },
@@ -4246,6 +4247,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-19 21:32:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-19 21:32:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-19 21:34:11 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/cobbled_deepslate_mine": {
     "criteria": {
       "has_mine": "2024-12-19 21:38:53 +0000"
@@ -4279,12 +4298,6 @@
   "securitycraft:recipes/building_blocks/deepslate_coal_mine": {
     "criteria": {
       "has_mine": "2024-12-19 21:38:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2024-12-19 21:34:11 +0000"
     },
     "done": true
   },
@@ -4348,12 +4361,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2024-12-19 21:32:54 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/redstone_mine": {
     "criteria": {
       "has_mine": "2024-12-19 21:38:53 +0000"
@@ -4405,12 +4412,6 @@
   "securitycraft:recipes/tools/wire_cutters": {
     "criteria": {
       "has_mine": "2024-12-19 21:38:53 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_dispenser": {
-    "criteria": {
-      "has_bow": "2024-12-19 21:32:54 +0000"
     },
     "done": true
   },
@@ -4477,6 +4478,42 @@
   "securitycraft:recipes/building_blocks/deepslate_emerald_mine": {
     "criteria": {
       "has_mine": "2024-12-19 21:38:53 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/birch": {
+    "criteria": {
+      "has_wood": "2024-12-19 21:46:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2024-12-19 21:46:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2024-12-19 21:46:11 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/birch_bridge_pier": {
+    "criteria": {
+      "has_planks": "2024-12-19 21:46:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2024-12-19 21:55:11 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2024-12-19 22:04:57 +0000"
     },
     "done": true
   },

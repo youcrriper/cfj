@@ -2389,6 +2389,7 @@
       "minecraft:pillager": "2024-12-18 22:05:36 +0000",
       "minecraft:blaze": "2024-12-19 02:04:50 +0000",
       "minecraft:skeleton": "2024-12-18 03:22:18 +0000",
+      "minecraft:hoglin": "2024-12-19 21:46:44 +0000",
       "minecraft:vindicator": "2024-12-18 23:24:57 +0000",
       "minecraft:spider": "2024-12-18 02:36:42 +0000",
       "minecraft:creeper": "2024-12-18 22:07:55 +0000",
@@ -4881,9 +4882,21 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2024-12-19 22:00:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2024-12-19 21:45:21 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/succubus": {
+    "criteria": {
+      "kill": "2024-12-19 21:46:08 +0000"
     },
     "done": true
   },
