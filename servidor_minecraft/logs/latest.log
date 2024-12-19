@@ -1558,3 +1558,19 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Dec2024 22:39:12.134] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3511ms or 70 ticks behind
 [19Dec2024 22:39:29.909] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2786ms or 55 ticks behind
 [19Dec2024 22:39:47.207] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2334ms or 46 ticks behind
+[19Dec2024 22:41:46.525] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADES5 lost connection: Disconnected
+[19Dec2024 22:41:46.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADES5 left the game
+[19Dec2024 22:41:46.526] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 47bb66ad-fb58-339e-805b-0523264facf1 was unloaded
+[19Dec2024 22:41:46.526] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ADES5
+[19Dec2024 22:44:28.911] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ADES5[/172.24.98.170:55502] logged in with entity id 27966 at (22.867227594951533, 35.0, -203.93505313332525)
+[19Dec2024 22:44:28.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADES5 joined the game
+[19Dec2024 22:44:30.167] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ADES5 (18)
+[19Dec2024 22:44:30.168] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ADES5
+[19Dec2024 22:44:30.168] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 47bb66ad-fb58-339e-805b-0523264facf1 was loaded
+[19Dec2024 22:44:36.423] [Server thread/INFO] [do_a_barrel_roll/]: Client of ADES5 accepted server config.
+[19Dec2024 22:44:36.765] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 47bb66ad-fb58-339e-805b-0523264facf1
+[19Dec2024 22:44:37.245] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to ADES5 (47bb66ad-fb58-339e-805b-0523264facf1)
+[19Dec2024 22:44:37.767] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 47bb66ad-fb58-339e-805b-0523264facf1
+[19Dec2024 22:44:37.768] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ADES5 (47bb66ad-fb58-339e-805b-0523264facf1) successfully connected to voice chat
+[19Dec2024 22:48:09.531] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[19Dec2024 22:50:57.344] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind

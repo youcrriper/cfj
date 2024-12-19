@@ -55,9 +55,10 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
+      "requirement": "2024-12-19 22:46:44 +0000",
       "log_spam_fixer": "2024-12-18 01:10:28 +0000"
     },
-    "done": false
+    "done": true
   },
   "incendium:technical/scroll_of_returning": {
     "criteria": {
@@ -4882,13 +4883,19 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+  "grimoireofgaia:main/wither_cow": {
     "criteria": {
-      "has_diamond_backpack": "2024-12-19 22:00:25 +0000"
+      "kill": "2024-12-19 21:45:20 +0000"
     },
     "done": true
   },
   "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-19 21:45:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2024-12-19 21:45:21 +0000"
     },
@@ -4900,21 +4907,33 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2024-12-19 22:00:25 +0000"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/crimson": {
     "criteria": {
       "has_wood": "2024-12-19 22:23:43 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2024-12-19 22:29:32 +0000"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/crimson_bridge_pier": {
     "criteria": {
       "has_planks": "2024-12-19 22:23:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2024-12-19 22:23:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-12-19 22:29:32 +0000"
     },
     "done": true
   },
@@ -4930,12 +4949,6 @@
     },
     "done": true
   },
-  "grimoireofgaia:main/wither_cow": {
-    "criteria": {
-      "kill": "2024-12-19 21:45:20 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/materials/sand_paper": {
     "criteria": {
       "has_item": "2024-12-19 22:29:32 +0000"
@@ -4945,18 +4958,6 @@
   "create:recipes/misc/crafting/materials/red_sand_paper": {
     "criteria": {
       "has_item": "2024-12-19 22:29:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_hyphae": {
-    "criteria": {
-      "has_log": "2024-12-19 22:23:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glowstone": {
-    "criteria": {
-      "has_glowstone_dust": "2024-12-19 21:45:21 +0000"
     },
     "done": true
   },
