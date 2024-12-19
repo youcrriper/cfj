@@ -2293,6 +2293,7 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-18 22:49:00 +0000",
       "minecraft:creeper": "2024-12-19 01:21:22 +0000",
+      "minecraft:husk": "2024-12-19 22:12:18 +0000",
       "minecraft:zombie": "2024-12-19 21:43:16 +0000"
     },
     "done": false
@@ -4514,6 +4515,24 @@
   "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
     "criteria": {
       "has_diamond_backpack": "2024-12-19 22:04:57 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/gelatinous_slime": {
+    "criteria": {
+      "kill": "2024-12-19 22:10:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2024-12-19 22:14:16 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2024-12-19 22:11:26 +0000"
     },
     "done": true
   },
