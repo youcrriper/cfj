@@ -4525,77 +4525,47 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/building_blocks/clay": {
     "criteria": {
-      "log_spam_fixer": "2024-12-19 01:36:47 +0000"
+      "has_clay_ball": "2024-12-19 01:06:05 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "minecraft:recipes/misc/brick": {
     "criteria": {
-      "log_spam_fixer": "2024-12-19 01:36:47 +0000"
+      "has_clay_ball": "2024-12-19 01:06:05 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
     "criteria": {
-      "log_spam_fixer": "2024-12-19 01:36:47 +0000"
+      "has_moss": "2024-12-19 01:06:25 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
     "criteria": {
-      "log_spam_fixer": "2024-12-19 01:36:47 +0000"
+      "has_moss": "2024-12-19 01:06:25 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
     "criteria": {
-      "log_spam_fixer": "2024-12-19 01:36:47 +0000"
+      "has_moss_block": "2024-12-19 01:06:25 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
-      "log_spam_fixer": "2024-12-19 01:36:47 +0000"
+      "has_moss_block": "2024-12-19 01:06:25 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
-      "log_spam_fixer": "2024-12-19 01:36:47 +0000"
+      "has_moss_block": "2024-12-19 01:06:25 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-19 01:36:47 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-19 01:36:47 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-19 01:36:47 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-19 01:36:47 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-19 01:36:47 +0000"
-    },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
@@ -4603,9 +4573,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+  "minecraft:recipes/combat/arrow": {
     "criteria": {
-      "has_ancient_debris": "2024-12-19 01:21:39 +0000"
+      "has_flint": "2024-12-19 01:16:40 +0000"
     },
     "done": true
   },
@@ -4615,21 +4585,27 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_granite": {
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
-      "has_quartz": "2024-12-19 01:21:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/clay": {
-    "criteria": {
-      "has_clay_ball": "2024-12-19 01:06:05 +0000"
+      "has_ancient_debris": "2024-12-19 01:21:39 +0000"
     },
     "done": true
   },
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2024-12-19 01:21:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-19 01:21:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2024-12-19 01:21:48 +0000"
     },
     "done": true
   },
@@ -4657,45 +4633,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
-    "criteria": {
-      "has_moss": "2024-12-19 01:06:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brick": {
-    "criteria": {
-      "has_clay_ball": "2024-12-19 01:06:05 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
-    "criteria": {
-      "has_moss": "2024-12-19 01:06:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/arrow": {
-    "criteria": {
-      "has_flint": "2024-12-19 01:16:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_scrap": {
-    "criteria": {
-      "has_ancient_debris": "2024-12-19 01:21:39 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/redstone/reinforced_observer": {
     "criteria": {
       "has_quartz": "2024-12-19 01:21:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2024-12-19 01:06:25 +0000"
     },
     "done": true
   },
@@ -4711,17 +4651,11 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/moss_carpet": {
+  "incendium:technical/on_inventory_change": {
     "criteria": {
-      "has_moss_block": "2024-12-19 01:06:25 +0000"
+      "requirement": "2024-12-19 01:43:58 +0000"
     },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2024-12-19 01:06:25 +0000"
-    },
-    "done": true
+    "done": false
   },
   "DataVersion": 3465
 }
