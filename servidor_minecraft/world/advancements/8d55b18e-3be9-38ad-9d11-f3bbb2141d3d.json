@@ -924,9 +924,11 @@
       "minecraft:vindicator": "2024-12-18 23:21:46 +0000",
       "minecraft:spider": "2024-12-18 01:27:52 +0000",
       "minecraft:creeper": "2024-12-18 22:25:26 +0000",
+      "minecraft:evoker": "2024-12-18 23:43:26 +0000",
       "minecraft:phantom": "2024-12-18 22:41:53 +0000",
       "minecraft:cave_spider": "2024-12-18 02:33:33 +0000",
       "minecraft:stray": "2024-12-18 22:43:32 +0000",
+      "minecraft:vex": "2024-12-18 23:43:30 +0000",
       "minecraft:zombie": "2024-12-18 01:22:32 +0000"
     },
     "done": false
@@ -3819,6 +3821,18 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2024-12-19 00:02:36 +0000"
+    },
+    "done": false
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2024-12-19 00:02:32 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
     "criteria": {
       "has_item": "2024-12-18 22:54:22 +0000"
@@ -3999,6 +4013,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-19 00:03:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/jungle_window": {
     "criteria": {
       "has_ingredient": "2024-12-18 22:38:40 +0000"
@@ -4041,6 +4061,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-12-18 23:47:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_chestplate": "2024-12-18 22:33:38 +0000"
@@ -4062,6 +4088,12 @@
   "iceandfire:recipes/building_blocks/dragonforge_lightning_brick": {
     "criteria": {
       "has_item": "2024-12-18 22:54:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-19 00:02:32 +0000"
     },
     "done": true
   },
@@ -4092,6 +4124,24 @@
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2024-12-18 23:22:06 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/werecat": {
+    "criteria": {
+      "kill": "2024-12-18 23:40:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2024-12-18 23:47:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2024-12-18 23:47:35 +0000"
     },
     "done": true
   },
@@ -4137,6 +4187,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2024-12-18 23:47:35 +0000"
+    },
+    "done": true
+  },
   "create_connected:recipes/crafting/kinetics/brake": {
     "criteria": {
       "has_item": "2024-12-18 22:37:45 +0000"
@@ -4158,6 +4214,12 @@
   "mcwbridges:recipes/mossy_cobblestone_bridge": {
     "criteria": {
       "has_planks": "2024-12-18 23:20:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2024-12-18 23:47:35 +0000"
     },
     "done": true
   },
@@ -4191,9 +4253,21 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-19 00:02:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-18 23:20:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-12-18 23:51:43 +0000"
     },
     "done": true
   },
@@ -4212,6 +4286,12 @@
   "iceandfire:recipes/building_blocks/graveyard_soil": {
     "criteria": {
       "has_item": "2024-12-18 22:54:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-12-18 23:47:35 +0000"
     },
     "done": true
   },
@@ -4260,6 +4340,12 @@
   "dungeons_arise:find_monasteries": {
     "criteria": {
       "location0": "2024-12-18 23:03:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2024-12-18 23:51:43 +0000"
     },
     "done": true
   },
