@@ -1315,6 +1315,7 @@
       "golden_apple": "2024-12-18 03:40:51 +0000",
       "rotten_flesh": "2024-12-19 00:06:08 +0000",
       "salmon": "2024-12-18 01:56:36 +0000",
+      "golden_carrot": "2024-12-19 01:58:02 +0000",
       "cod": "2024-12-18 22:21:10 +0000",
       "carrot": "2024-12-18 03:50:10 +0000"
     },
@@ -4864,9 +4865,15 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2024-12-19 01:55:11 +0000"
+      "requirement": "2024-12-19 02:03:54 +0000"
     },
     "done": false
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2024-12-19 01:59:26 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

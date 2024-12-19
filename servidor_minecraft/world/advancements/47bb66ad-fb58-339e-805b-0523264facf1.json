@@ -2392,6 +2392,7 @@
       "minecraft:spider": "2024-12-18 02:36:42 +0000",
       "minecraft:creeper": "2024-12-18 22:07:55 +0000",
       "minecraft:phantom": "2024-12-18 22:41:17 +0000",
+      "minecraft:wither_skeleton": "2024-12-19 01:56:35 +0000",
       "minecraft:cave_spider": "2024-12-18 02:00:21 +0000",
       "minecraft:piglin": "2024-12-19 00:11:55 +0000",
       "minecraft:stray": "2024-12-18 22:43:14 +0000",
@@ -4648,6 +4649,120 @@
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2024-12-19 01:21:48 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/nether_bricks_bridge_stair": {
+    "criteria": {
+      "has_planks": "2024-12-19 02:02:52 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/nether_bricks_bridge_pier": {
+    "criteria": {
+      "has_planks": "2024-12-19 02:02:52 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/nether_eye": {
+    "criteria": {
+      "nether_eye": "2024-12-19 01:57:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-19 02:02:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-19 02:02:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-19 02:02:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-12-19 01:56:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-19 02:02:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-19 02:02:52 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_nether_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-19 02:02:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2024-12-19 01:59:05 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:iammusicplayer/root": {
+    "criteria": {
+      "iammusicplayer": "2024-12-19 01:57:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-19 02:02:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2024-12-19 01:59:05 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/nether_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-19 02:02:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-19 02:02:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-19 02:02:52 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "nether_eye": "2024-12-19 01:57:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-19 02:02:52 +0000"
     },
     "done": true
   },

@@ -55,10 +55,9 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
-      "requirement": "2024-12-19 01:55:11 +0000",
       "log_spam_fixer": "2024-12-18 02:44:44 +0000"
     },
-    "done": true
+    "done": false
   },
   "incendium:technical/scroll_of_returning": {
     "criteria": {
@@ -3390,15 +3389,117 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_limestone_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-19 01:58:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-19 02:03:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-19 01:58:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-19 01:58:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-19 01:58:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-19 01:58:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-19 01:58:38 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/skull_to_bone_meal": {
     "criteria": {
       "has_item": "2024-12-19 01:51:30 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-19 01:58:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-19 01:58:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_limestone_bricks_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-19 01:58:38 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragon_staff": {
     "criteria": {
       "bestiary": "2024-12-19 01:55:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_limestone_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-19 01:58:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_bricks_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-19 01:58:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-19 02:03:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-19 01:58:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/limestone_pillar_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-19 01:58:38 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_metal_boots": {
+    "criteria": {
+      "has_the_recipe": "2024-12-19 01:56:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-19 01:58:38 +0000"
     },
     "done": true
   },
@@ -3420,9 +3521,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/layered_limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-19 01:58:38 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
     "criteria": {
       "has_sapphire_gem": "2024-12-19 01:42:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_limestone_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-19 01:58:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-19 01:58:38 +0000"
     },
     "done": true
   },
@@ -3432,9 +3551,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-19 01:58:38 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_metal_chestplate": {
+    "criteria": {
+      "has_the_recipe": "2024-12-19 01:56:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-19 01:58:38 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_stick": {
     "criteria": {
       "has_item": "2024-12-19 01:51:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_metal_leggings": {
+    "criteria": {
+      "has_the_recipe": "2024-12-19 01:56:40 +0000"
     },
     "done": true
   },

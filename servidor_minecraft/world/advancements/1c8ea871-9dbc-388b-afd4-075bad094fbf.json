@@ -3505,6 +3505,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-19 01:55:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-19 01:55:56 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_bone_wall": {
     "criteria": {
       "has_item": "2024-12-19 01:50:03 +0000"
@@ -3523,9 +3535,39 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-19 01:55:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_glazed_terracotta": {
     "criteria": {
       "has_white_terracotta": "2024-12-19 01:44:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-19 01:55:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-19 01:55:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-19 01:55:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-19 01:55:56 +0000"
     },
     "done": true
   },
@@ -3553,6 +3595,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-19 01:55:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_bricks_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-19 01:55:53 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_if_dragon": {
     "criteria": {
       "killed_ice_dragon": "2024-12-19 01:47:54 +0000"
@@ -3562,6 +3616,12 @@
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2024-12-19 01:52:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-19 01:55:56 +0000"
     },
     "done": true
   },
@@ -3577,6 +3637,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-19 01:55:56 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/nest": {
     "criteria": {
       "has_item": "2024-12-19 01:50:03 +0000"
@@ -3586,6 +3652,24 @@
   "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
     "criteria": {
       "has_dragonscales_white": "2024-12-19 01:50:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-19 02:01:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2024-12-19 02:01:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-19 01:55:56 +0000"
     },
     "done": true
   },
@@ -3607,9 +3691,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/layered_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-19 01:55:53 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragon_bone_block": {
     "criteria": {
       "has_dragonbone": "2024-12-19 01:50:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-19 01:55:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/calcite_pillar_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-19 01:55:53 +0000"
     },
     "done": true
   },
@@ -3625,6 +3727,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_limestone_bricks_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-19 01:55:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2024-12-19 01:52:56 +0000"
@@ -3637,9 +3745,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-19 01:55:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_limestone_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-19 01:55:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_bricks_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-19 01:55:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-19 01:52:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-19 01:55:56 +0000"
     },
     "done": true
   },
@@ -3655,9 +3787,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/limestone_pillar_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-19 01:55:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2024-12-19 01:32:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-19 01:55:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-19 01:55:53 +0000"
     },
     "done": true
   },
@@ -3727,6 +3877,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-19 01:55:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-19 01:55:56 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_pickaxe": {
     "criteria": {
       "has_item": "2024-12-19 01:50:03 +0000"
@@ -3736,6 +3898,18 @@
   "create:recipes/misc/crafting/materials/sand_paper": {
     "criteria": {
       "has_item": "2024-12-19 01:32:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-19 01:55:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-19 01:55:53 +0000"
     },
     "done": true
   },
@@ -3751,9 +3925,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_limestone_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-19 01:55:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
       "has_planks": "2024-12-19 01:52:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-19 01:55:56 +0000"
     },
     "done": true
   },
@@ -3769,9 +3955,39 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_calcite_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-19 01:55:53 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/rope_dark_oak_bridge": {
     "criteria": {
       "has_planks": "2024-12-19 01:52:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-19 01:55:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-19 01:55:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-19 01:55:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-19 01:55:53 +0000"
     },
     "done": true
   },
@@ -3781,9 +3997,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-19 01:55:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-19 01:55:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_bricks_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-19 01:55:53 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_sword": {
     "criteria": {
       "has_item": "2024-12-19 01:50:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-19 01:55:53 +0000"
     },
     "done": true
   },
@@ -3808,6 +4048,12 @@
   "iceandfire:recipes/misc/dragon_stick": {
     "criteria": {
       "has_item": "2024-12-19 01:50:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-19 02:01:27 +0000"
     },
     "done": true
   },

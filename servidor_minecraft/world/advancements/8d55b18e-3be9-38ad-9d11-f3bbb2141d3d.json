@@ -921,12 +921,14 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-12-18 22:07:04 +0000",
+      "minecraft:blaze": "2024-12-19 01:57:13 +0000",
       "minecraft:skeleton": "2024-12-18 03:22:37 +0000",
       "minecraft:vindicator": "2024-12-18 23:21:46 +0000",
       "minecraft:spider": "2024-12-18 01:27:52 +0000",
       "minecraft:creeper": "2024-12-18 22:25:26 +0000",
       "minecraft:evoker": "2024-12-18 23:43:26 +0000",
       "minecraft:phantom": "2024-12-18 22:41:53 +0000",
+      "minecraft:wither_skeleton": "2024-12-19 02:02:27 +0000",
       "minecraft:cave_spider": "2024-12-18 02:33:33 +0000",
       "minecraft:stray": "2024-12-18 22:43:32 +0000",
       "minecraft:vex": "2024-12-18 23:43:30 +0000",
@@ -4412,9 +4414,39 @@
     },
     "done": true
   },
+  "iammusicplayer:recipes/misc/music_manager": {
+    "criteria": {
+      "has_diamond": "2024-12-19 01:57:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2024-12-19 01:57:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2024-12-19 01:57:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2024-12-19 01:57:38 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/balustrade_blackstone_bridge": {
     "criteria": {
       "has_planks": "2024-12-19 01:52:26 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/nether_bricks_bridge_stair": {
+    "criteria": {
+      "has_planks": "2024-12-19 02:01:27 +0000"
     },
     "done": true
   },
@@ -4424,9 +4456,27 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-19 01:57:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2024-12-19 01:57:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-19 01:52:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2024-12-19 02:03:45 +0000"
     },
     "done": true
   },
@@ -4436,9 +4486,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-12-19 02:03:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-19 01:52:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-12-19 02:03:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2024-12-19 01:57:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2024-12-19 01:57:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2024-12-19 02:03:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-12-19 02:03:45 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:recipes/misc/quill": {
+    "criteria": {
+      "has_diamond": "2024-12-19 01:57:38 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/nether_bricks_bridge_pier": {
+    "criteria": {
+      "has_planks": "2024-12-19 02:01:27 +0000"
     },
     "done": true
   },
@@ -4448,9 +4546,27 @@
     },
     "done": true
   },
+  "endrem:main/nether_eye": {
+    "criteria": {
+      "nether_eye": "2024-12-19 01:57:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-19 01:52:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2024-12-19 01:57:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-19 02:01:27 +0000"
     },
     "done": true
   },
@@ -4466,9 +4582,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-19 02:01:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2024-12-19 01:57:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-19 02:01:27 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/blackstone_bridge_pier": {
     "criteria": {
       "has_planks": "2024-12-19 01:52:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-19 01:57:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-12-19 01:56:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2024-12-19 01:57:38 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/succubus": {
+    "criteria": {
+      "kill": "2024-12-19 02:03:43 +0000"
     },
     "done": true
   },
@@ -4478,15 +4636,99 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-19 02:01:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-19 02:01:27 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_nether_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-19 02:01:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2024-12-19 01:59:21 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2024-12-19 02:03:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-19 02:01:27 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/wither_cow": {
+    "criteria": {
+      "kill": "2024-12-19 01:58:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2024-12-19 01:59:21 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/nether_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-19 02:01:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-19 01:52:26 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-19 02:01:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-19 01:52:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2024-12-19 02:03:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2024-12-19 01:57:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-12-19 02:03:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-19 02:01:27 +0000"
     },
     "done": true
   },
@@ -4514,9 +4756,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-19 01:57:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-19 01:52:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-19 02:01:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2024-12-19 01:57:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-19 01:57:14 +0000"
     },
     "done": true
   },
