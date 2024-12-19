@@ -2288,7 +2288,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2024-12-18 22:49:00 +0000"
+      "minecraft:skeleton": "2024-12-18 22:49:00 +0000",
+      "minecraft:creeper": "2024-12-19 01:21:22 +0000"
     },
     "done": false
   },
@@ -3503,6 +3504,12 @@
       "has_gold_ingot": "2024-12-19 00:09:44 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2024-12-19 01:21:22 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
