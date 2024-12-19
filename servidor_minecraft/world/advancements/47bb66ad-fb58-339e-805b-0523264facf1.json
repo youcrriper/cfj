@@ -4900,9 +4900,27 @@
     },
     "done": true
   },
+  "mcwfurnitures:recipes/crimson": {
+    "criteria": {
+      "has_wood": "2024-12-19 22:23:43 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/crimson_bridge_pier": {
+    "criteria": {
+      "has_planks": "2024-12-19 22:23:43 +0000"
+    },
+    "done": true
+  },
   "grimoireofgaia:main/wither_cow": {
     "criteria": {
       "kill": "2024-12-19 21:45:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2024-12-19 22:23:43 +0000"
     },
     "done": true
   },
